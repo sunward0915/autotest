@@ -1,0 +1,415 @@
+2018-06-13 15:36:18,966 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-13 15:36:18,966 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-13 15:36:20,369 - mmmm - DEBUG- {'SID': 'f73gcmfefo0oh3g0fk4e79l18b'}
+2018-06-13 15:36:20,370 - mmmm - DEBUG- 获取cookie
+2018-06-13 15:36:20,370 - mmmm - DEBUG- {'SID': 'f73gcmfefo0oh3g0fk4e79l18b'}
+2018-06-13 15:36:20,370 - mmmm - DEBUG- 2018-06-13  15:36:20带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-13 15:36:21,365 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Wed, 13 Jun 2018 07:36:21 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-13 15:36:21,365 - mmmm - DEBUG- 200
+2018-06-13 15:36:21,365 - mmmm - DEBUG- {'errcode': 0, 'errmsg': 'success', 'data': {'integral': 0, 'is_first': 0, 'insert_id': '557027'}}
+2018-06-13 15:36:21,365 - mmmm - DEBUG- pass
+2018-06-13 15:36:21,366 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-13 15:36:21,366 - mmmm - DEBUG- {'SID': 'f73gcmfefo0oh3g0fk4e79l18b'}
+2018-06-13 15:36:21,366 - mmmm - DEBUG- 2018-06-13  15:36:21带图片的帖子帖子展示自己一个人在家好无聊                < img                src = "/Public/upfile/201806/5b209359d6dbe.png"                width = "240"                height = "321" / >
+2018-06-13 15:36:21,366 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_557027
+2018-06-13 15:36:23,922 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Wed, 13 Jun 2018 07:36:21 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-13 15:36:23,923 - mmmm - DEBUG- 200
+2018-06-13 15:36:23,923 - mmmm - DEBUG- pass
+2018-06-13 17:25:46,502 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-13 17:25:46,503 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-13 17:25:47,923 - mmmm - DEBUG- {'SID': 'mvhbqciciq8a1mm114r09hj6or'}
+2018-06-13 17:25:47,923 - mmmm - DEBUG- 获取cookie
+2018-06-13 17:25:47,923 - mmmm - DEBUG- {'SID': 'mvhbqciciq8a1mm114r09hj6or'}
+2018-06-13 17:25:47,924 - mmmm - DEBUG- 2018-06-13  17:25:47带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-13 17:25:50,888 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Wed, 13 Jun 2018 09:25:50 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-13 17:25:50,888 - mmmm - DEBUG- 200
+2018-06-13 17:25:50,888 - mmmm - DEBUG- {'errcode': 0, 'errmsg': 'success', 'data': {'integral': 0, 'is_first': 0, 'insert_id': '557060'}}
+2018-06-13 17:25:50,888 - mmmm - DEBUG- pass
+2018-06-13 17:25:50,888 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-13 17:25:50,888 - mmmm - DEBUG- {'SID': 'mvhbqciciq8a1mm114r09hj6or'}
+2018-06-13 17:25:50,888 - mmmm - DEBUG- 2018-06-13  17:25:50带图片的帖子帖子展示自己一个人在家好无聊                < img                src = "/Public/upfile/201806/5b209359d6dbe.png"                width = "240"                height = "321" / >
+2018-06-13 17:25:50,889 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_557060
+2018-06-13 17:25:55,309 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Wed, 13 Jun 2018 09:25:54 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-13 17:25:55,309 - mmmm - DEBUG- 200
+2018-06-13 17:25:55,309 - mmmm - DEBUG- pass
+2018-06-13 22:02:38,424 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-13 22:02:38,424 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-13 22:02:38,867 - mmmm - DEBUG- {'SID': 'dkm3cnpdtcb7smf1q35clfb9pl'}
+2018-06-13 22:02:38,868 - mmmm - DEBUG- 获取cookie
+2018-06-13 22:02:38,868 - mmmm - DEBUG- {'SID': 'dkm3cnpdtcb7smf1q35clfb9pl'}
+2018-06-13 22:02:38,868 - mmmm - DEBUG- 2018-06-13  22:02:38带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-13 22:02:39,778 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Wed, 13 Jun 2018 14:02:40 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-13 22:02:39,778 - mmmm - DEBUG- 200
+2018-06-13 22:02:39,781 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-13 22:02:39,781 - mmmm - DEBUG- {'SID': 'dkm3cnpdtcb7smf1q35clfb9pl'}
+2018-06-13 22:02:39,781 - mmmm - DEBUG- 2018-06-13  22:02:39带图片的帖子帖子展示自己一个人在家好无聊                < img                src = "/Public/upfile/201806/5b209359d6dbe.png"                width = "240"                height = "321" / >
+2018-06-13 22:02:39,781 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-13 22:02:40,125 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Wed, 13 Jun 2018 14:02:40 GMT', 'Content-Type': 'text/html; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-13 22:02:40,126 - mmmm - DEBUG- 500
+2018-06-13 22:02:40,126 - mmmm - DEBUG- fail
+2018-06-13 22:03:29,413 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-13 22:03:29,413 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-13 22:03:29,871 - mmmm - DEBUG- {'SID': 'aim4g3rfd2l67miodv8k7obh8a'}
+2018-06-13 22:03:29,872 - mmmm - DEBUG- 获取cookie
+2018-06-13 22:03:29,872 - mmmm - DEBUG- {'SID': 'aim4g3rfd2l67miodv8k7obh8a'}
+2018-06-13 22:03:29,872 - mmmm - DEBUG- 2018-06-13  22:03:29带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-13 22:03:30,874 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Wed, 13 Jun 2018 14:03:31 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-13 22:03:30,874 - mmmm - DEBUG- 200
+2018-06-13 22:03:30,875 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-13 22:03:30,875 - mmmm - DEBUG- {'SID': 'aim4g3rfd2l67miodv8k7obh8a'}
+2018-06-13 22:03:30,875 - mmmm - DEBUG- 2018-06-13  22:03:30带图片的帖子帖子展示自己一个人在家好无聊                < img                src = "/Public/upfile/201806/5b209359d6dbe.png"                width = "240"                height = "321" / >
+2018-06-13 22:03:30,875 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_557111
+2018-06-13 22:03:31,214 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Wed, 13 Jun 2018 14:03:31 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-13 22:03:31,214 - mmmm - DEBUG- 200
+2018-06-13 22:03:31,214 - mmmm - DEBUG- pass
+2018-06-13 22:04:26,529 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-13 22:04:26,530 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-13 22:04:26,895 - mmmm - DEBUG- {'SID': '3dgdh95aak2qhgu3dkeotpbkhv'}
+2018-06-13 22:04:26,896 - mmmm - DEBUG- 获取cookie
+2018-06-13 22:04:26,896 - mmmm - DEBUG- {'SID': '3dgdh95aak2qhgu3dkeotpbkhv'}
+2018-06-13 22:04:26,896 - mmmm - DEBUG- 2018-06-13  22:04:26带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-13 22:04:27,866 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Wed, 13 Jun 2018 14:04:28 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-13 22:04:27,866 - mmmm - DEBUG- 200
+2018-06-13 22:04:27,868 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-13 22:04:27,868 - mmmm - DEBUG- {'SID': '3dgdh95aak2qhgu3dkeotpbkhv'}
+2018-06-13 22:04:27,868 - mmmm - DEBUG- 2018-06-13  22:04:27带图片的帖子帖子展示自己一个人在家好无聊                < img                src = "/Public/upfile/201806/5b209359d6dbe.png"                width = "240"                height = "321" / >
+2018-06-13 22:04:27,868 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-13 22:04:28,214 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Wed, 13 Jun 2018 14:04:28 GMT', 'Content-Type': 'text/html; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-13 22:04:28,214 - mmmm - DEBUG- 500
+2018-06-13 22:04:28,214 - mmmm - DEBUG- fail
+2018-06-13 22:06:00,211 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-13 22:06:00,211 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-13 22:06:00,622 - mmmm - DEBUG- {'SID': '7ld6js7os82lge15jnghol7k5k'}
+2018-06-13 22:06:00,623 - mmmm - DEBUG- 获取cookie
+2018-06-13 22:06:00,623 - mmmm - DEBUG- {'SID': '7ld6js7os82lge15jnghol7k5k'}
+2018-06-13 22:06:00,623 - mmmm - DEBUG- 2018-06-13  22:06:00带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-13 22:06:01,607 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Wed, 13 Jun 2018 14:06:02 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-13 22:06:01,607 - mmmm - DEBUG- 200
+2018-06-13 22:06:01,608 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-13 22:06:01,608 - mmmm - DEBUG- {'SID': '7ld6js7os82lge15jnghol7k5k'}
+2018-06-13 22:06:01,608 - mmmm - DEBUG- 2018-06-13  22:06:01带图片的帖子帖子展示自己一个人在家好无聊                < img                src = "/Public/upfile/201806/5b209359d6dbe.png"                width = "240"                height = "321" / >
+2018-06-13 22:06:01,608 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_557113
+2018-06-13 22:06:01,927 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Wed, 13 Jun 2018 14:06:02 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-13 22:06:01,928 - mmmm - DEBUG- 200
+2018-06-14 10:51:27,267 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-14 10:51:27,268 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-14 10:51:28,593 - mmmm - DEBUG- {'SID': 'uj0o7knc6b5jmjh0o2njvr323l'}
+2018-06-14 10:51:28,595 - mmmm - DEBUG- 获取cookie
+2018-06-14 10:51:28,595 - mmmm - DEBUG- {'SID': 'uj0o7knc6b5jmjh0o2njvr323l'}
+2018-06-14 10:51:28,596 - mmmm - DEBUG- 2018-06-14  10:51:28带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-14 10:51:29,618 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Thu, 14 Jun 2018 02:51:32 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-14 10:51:29,618 - mmmm - DEBUG- 200
+2018-06-14 10:51:29,619 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-14 10:51:29,620 - mmmm - DEBUG- {'SID': 'uj0o7knc6b5jmjh0o2njvr323l'}
+2018-06-14 10:51:29,620 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_557162
+2018-06-14 10:51:29,944 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Thu, 14 Jun 2018 02:51:32 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-14 10:51:29,945 - mmmm - DEBUG- 200
+2018-06-14 10:52:28,197 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-14 10:52:28,198 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-14 10:52:29,118 - mmmm - DEBUG- {'SID': 'bb8glmmethl4s96iupo8qs6d8k'}
+2018-06-14 10:54:54,619 - mmmm - DEBUG- 获取cookie
+2018-06-14 10:54:54,622 - mmmm - DEBUG- {'SID': 'bb8glmmethl4s96iupo8qs6d8k'}
+2018-06-14 10:54:54,624 - mmmm - DEBUG- 2018-06-14  10:54:54带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-14 10:54:55,646 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Thu, 14 Jun 2018 02:54:58 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-14 10:54:55,648 - mmmm - DEBUG- 200
+2018-06-14 10:54:55,651 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-14 10:54:55,651 - mmmm - DEBUG- {'SID': 'bb8glmmethl4s96iupo8qs6d8k'}
+2018-06-14 10:54:55,652 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_557164
+2018-06-14 10:54:56,011 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Thu, 14 Jun 2018 02:54:59 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-14 10:54:56,012 - mmmm - DEBUG- 200
+2018-06-14 10:57:38,777 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-14 10:57:38,778 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-14 10:57:39,211 - mmmm - DEBUG- {'SID': 'tb5gc1ug47ru78gi862hren74q'}
+2018-06-14 11:04:30,831 - mmmm - DEBUG- 获取cookie
+2018-06-14 11:04:30,832 - mmmm - DEBUG- {'SID': 'tb5gc1ug47ru78gi862hren74q'}
+2018-06-14 11:04:30,833 - mmmm - DEBUG- 2018-06-14  11:04:30带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-14 11:04:31,862 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Thu, 14 Jun 2018 03:04:34 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-14 11:04:31,863 - mmmm - DEBUG- 200
+2018-06-14 11:05:27,159 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-14 11:05:27,161 - mmmm - DEBUG- {'SID': 'tb5gc1ug47ru78gi862hren74q'}
+2018-06-14 11:05:27,162 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_557171
+2018-06-14 11:05:27,533 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Thu, 14 Jun 2018 03:05:30 GMT', 'Content-Type': 'application/json; charset=utf-8', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Transfer-Encoding': 'chunked', 'Connection': 'Keep-alive'}
+2018-06-14 11:05:27,534 - mmmm - DEBUG- 200
+2018-06-15 10:40:30,775 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 10:40:30,776 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 10:40:32,536 - mmmm - DEBUG- {'SID': 'a5age9te1s706jnh2obj1qduoq'}
+2018-06-15 10:41:33,639 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 10:41:33,640 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 10:41:34,066 - mmmm - DEBUG- {'SID': 'oko4js7otap2kt51ujuboed30c'}
+2018-06-15 10:43:49,843 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 10:43:49,843 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 10:43:50,193 - mmmm - DEBUG- {'SID': 'aojcqjo0ek29tal1uc2q05f4k7'}
+2018-06-15 10:43:50,193 - mmmm - DEBUG- TestFaTie 开始
+2018-06-15 10:43:50,194 - mmmm - DEBUG- TestFaTie 开始
+2018-06-15 10:45:19,199 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 10:45:19,199 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 10:45:19,505 - mmmm - DEBUG- {'SID': 'j0a63cbisqhtl8moq9jlcvrja9'}
+2018-06-15 10:45:19,506 - mmmm - DEBUG- TestFaTie 开始
+2018-06-15 10:45:19,506 - mmmm - DEBUG- TestFaTie 开始
+2018-06-15 10:46:16,037 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 10:46:16,037 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 10:46:17,111 - mmmm - DEBUG- {'SID': 'hishr8i916v31284j3oidke7ui'}
+2018-06-15 10:46:17,112 - mmmm - DEBUG- TestFaTie 开始
+2018-06-15 10:46:17,112 - mmmm - DEBUG- TestFaTie 开始
+2018-06-15 10:46:53,831 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 10:46:53,832 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 10:46:54,384 - mmmm - DEBUG- {'SID': 'p1rds3sv07vha6smg7cklvehbv'}
+2018-06-15 10:46:54,385 - mmmm - DEBUG- 获取cookie=
+2018-06-15 10:46:54,385 - mmmm - DEBUG- 2018-06-15  10:46:54带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-15 10:46:56,022 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Fri, 15 Jun 2018 02:47:00 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache'}
+2018-06-15 10:46:56,022 - mmmm - DEBUG- 200
+2018-06-15 10:46:56,024 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 10:46:56,024 - mmmm - DEBUG- {'SID': 'p1rds3sv07vha6smg7cklvehbv'}
+2018-06-15 10:46:56,024 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_557361
+2018-06-15 10:46:56,266 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Fri, 15 Jun 2018 02:47:01 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache'}
+2018-06-15 10:46:56,266 - mmmm - DEBUG- 200
+2018-06-15 10:48:22,206 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 10:48:22,207 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 10:48:22,530 - mmmm - DEBUG- {'SID': 'qjp8v5u5l3e063396qhvda0ag0'}
+2018-06-15 10:48:22,531 - mmmm - DEBUG- 获取cookie=
+2018-06-15 10:48:22,531 - mmmm - DEBUG- 2018-06-15  10:48:22带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-15 10:48:23,371 - mmmm - DEBUG- 获取header=
+2018-06-15 10:48:23,374 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 10:48:23,374 - mmmm - DEBUG- {'SID': 'qjp8v5u5l3e063396qhvda0ag0'}
+2018-06-15 10:48:23,374 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-15 10:48:23,615 - mmmm - DEBUG- 获取header=
+2018-06-15 10:48:58,504 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 10:48:58,504 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 10:48:58,902 - mmmm - DEBUG- {'SID': 't7hjfikm05cnt110mhofrmob8u'}
+2018-06-15 10:48:58,903 - mmmm - DEBUG- 获取cookie=
+2018-06-15 10:48:58,903 - mmmm - DEBUG- 2018-06-15  10:48:58带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-15 10:48:59,622 - mmmm - DEBUG- 获取header=
+2018-06-15 10:48:59,625 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 10:48:59,625 - mmmm - DEBUG- {'SID': 't7hjfikm05cnt110mhofrmob8u'}
+2018-06-15 10:48:59,625 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-15 10:48:59,865 - mmmm - DEBUG- 获取header=
+2018-06-15 10:50:33,997 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 10:50:33,998 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 10:50:34,279 - mmmm - DEBUG- {'SID': 're8n445s8604fp6j4qkr2injkk'}
+2018-06-15 10:50:34,279 - mmmm - DEBUG- setUp 开始
+2018-06-15 10:50:34,280 - mmmm - DEBUG- 获取cookie=
+2018-06-15 10:50:34,280 - mmmm - DEBUG- 2018-06-15  10:50:34带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-15 10:50:35,157 - mmmm - DEBUG- 获取header=
+2018-06-15 10:50:35,159 - mmmm - DEBUG- setUp 开始
+2018-06-15 10:50:35,159 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 10:50:35,159 - mmmm - DEBUG- {'SID': 're8n445s8604fp6j4qkr2injkk'}
+2018-06-15 10:50:35,159 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-15 10:50:35,415 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Fri, 15 Jun 2018 02:50:40 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache'}
+2018-06-15 10:50:35,415 - mmmm - DEBUG- 500
+2018-06-15 10:54:38,765 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 10:54:38,765 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 10:54:39,202 - mmmm - DEBUG- {'SID': '1qmpelf4sn4va3r7t7jehdkck6'}
+2018-06-15 10:54:39,202 - mmmm - DEBUG- TestDemo 开始
+2018-06-15 10:54:39,203 - mmmm - DEBUG- TestDemo 开始
+2018-06-15 10:55:00,076 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 10:55:00,077 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 10:55:00,343 - mmmm - DEBUG- {'SID': 'j4tjn6vmlcdvdo999hsvmm12v2'}
+2018-06-15 10:55:00,344 - mmmm - DEBUG- setUp 开始
+2018-06-15 10:55:00,344 - mmmm - DEBUG- test_TestDemoFunc11111111
+2018-06-15 10:55:00,344 - mmmm - DEBUG- tearDown 开始
+2018-06-15 10:55:00,344 - mmmm - DEBUG- setUp 开始
+2018-06-15 10:55:00,344 - mmmm - DEBUG- test_TestDemoFunc22222222
+2018-06-15 10:55:00,344 - mmmm - DEBUG- tearDown 开始
+2018-06-15 10:55:43,813 - mmmm - DEBUG- setUp 开始
+2018-06-15 10:55:43,814 - mmmm - DEBUG- test_TestDemoFunc11111111
+2018-06-15 10:55:43,814 - mmmm - DEBUG- tearDown 开始
+2018-06-15 10:55:43,814 - mmmm - DEBUG- setUp 开始
+2018-06-15 10:55:43,814 - mmmm - DEBUG- test_TestDemoFunc22222222
+2018-06-15 10:55:43,814 - mmmm - DEBUG- tearDown 开始
+2018-06-15 10:56:00,070 - mmmm - DEBUG- setUp 开始
+2018-06-15 10:56:00,070 - mmmm - DEBUG- test_TestDemoFunc11111111
+2018-06-15 10:56:00,070 - mmmm - DEBUG- tearDown 开始
+2018-06-15 10:56:00,071 - mmmm - DEBUG- setUp 开始
+2018-06-15 10:56:00,071 - mmmm - DEBUG- test_TestDemoFunc22222222
+2018-06-15 10:56:00,071 - mmmm - DEBUG- tearDown 开始
+2018-06-15 12:11:09,185 - mmmm - DEBUG- setUp 开始
+2018-06-15 12:11:09,186 - mmmm - DEBUG- test_TestDemoFunc11111111
+2018-06-15 12:11:09,186 - mmmm - DEBUG- tearDown 开始
+2018-06-15 12:11:09,186 - mmmm - DEBUG- setUp 开始
+2018-06-15 12:11:09,186 - mmmm - DEBUG- test_TestDemoFunc22222222
+2018-06-15 12:11:09,186 - mmmm - DEBUG- tearDown 开始
+2018-06-15 12:16:23,946 - mmmm - DEBUG- setUp 开始
+2018-06-15 12:16:23,946 - mmmm - DEBUG- test_TestDemoFunc11111111
+2018-06-15 12:16:23,946 - mmmm - DEBUG- tearDown 开始
+2018-06-15 12:16:23,946 - mmmm - DEBUG- setUp 开始
+2018-06-15 12:16:23,946 - mmmm - DEBUG- test_TestDemoFunc22222222
+2018-06-15 12:16:23,946 - mmmm - DEBUG- tearDown 开始
+2018-06-15 12:20:58,229 - mmmm - DEBUG- setUp 开始
+2018-06-15 12:20:58,230 - mmmm - DEBUG- test_TestDemoFunc11111111
+2018-06-15 12:20:58,230 - mmmm - DEBUG- tearDown 开始
+2018-06-15 12:20:58,230 - mmmm - DEBUG- setUp 开始
+2018-06-15 12:20:58,230 - mmmm - DEBUG- test_TestDemoFunc22222222
+2018-06-15 12:20:58,230 - mmmm - DEBUG- tearDown 开始
+2018-06-15 12:34:03,407 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 12:34:03,408 - mmmm - DEBUG- {}
+2018-06-15 12:34:03,408 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-15 12:39:04,521 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 12:39:04,522 - mmmm - DEBUG- {}
+2018-06-15 12:39:04,522 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-15 12:39:56,886 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 12:39:56,886 - mmmm - DEBUG- {}
+2018-06-15 12:39:56,887 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-15 12:41:37,529 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 12:41:37,530 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 12:41:37,949 - mmmm - DEBUG- {'SID': '6e1q0mb0fbmqjm1dsnpqgr56l6'}
+2018-06-15 12:41:37,951 - mmmm - DEBUG- {'SID': '6e1q0mb0fbmqjm1dsnpqgr56l6'}
+2018-06-15 12:43:10,239 - mmmm - DEBUG- setUp 开始
+2018-06-15 12:43:10,240 - mmmm - DEBUG- {'SID': '6e1q0mb0fbmqjm1dsnpqgr56l6'}
+2018-06-15 12:43:10,240 - mmmm - DEBUG- tearDown 开始
+2018-06-15 12:43:10,240 - mmmm - DEBUG- setUp 开始
+2018-06-15 12:43:10,241 - mmmm - DEBUG- test_TestDemoFunc22222222
+2018-06-15 12:43:10,241 - mmmm - DEBUG- tearDown 开始
+2018-06-15 12:46:52,209 - mmmm - DEBUG- setUp 开始
+2018-06-15 12:46:52,209 - mmmm - DEBUG- {'SID': '6e1q0mb0fbmqjm1dsnpqgr56l6'}
+2018-06-15 12:46:52,209 - mmmm - DEBUG- tearDown 开始
+2018-06-15 12:46:52,210 - mmmm - DEBUG- setUp 开始
+2018-06-15 12:46:52,210 - mmmm - DEBUG- test_TestDemoFunc22222222
+2018-06-15 12:46:52,210 - mmmm - DEBUG- tearDown 开始
+2018-06-15 12:48:18,283 - mmmm - DEBUG- setUp 开始
+2018-06-15 12:48:18,284 - mmmm - DEBUG- {'SID': '6e1q0mb0fbmqjm1dsnpqgr56l6'}
+2018-06-15 12:48:18,284 - mmmm - DEBUG- 获取cookie={"SID": "6e1q0mb0fbmqjm1dsnpqgr56l6"}
+2018-06-15 12:48:18,284 - mmmm - DEBUG- test_TestDemoFunc11111111
+2018-06-15 12:48:18,284 - mmmm - DEBUG- tearDown 开始
+2018-06-15 12:48:18,285 - mmmm - DEBUG- setUp 开始
+2018-06-15 12:48:18,285 - mmmm - DEBUG- test_TestDemoFunc22222222
+2018-06-15 12:48:18,285 - mmmm - DEBUG- tearDown 开始
+2018-06-15 12:49:32,884 - mmmm - DEBUG- 获取cookie={}
+2018-06-15 12:49:32,884 - mmmm - DEBUG- 2018-06-15  12:49:32带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-15 12:49:33,136 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 12:49:33,136 - mmmm - DEBUG- {}
+2018-06-15 12:49:33,136 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-15 12:49:42,466 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 12:49:42,467 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 12:49:42,742 - mmmm - DEBUG- {'SID': 'jleme2lq0nfcoosdd6bo1bnk6p'}
+2018-06-15 12:49:42,743 - mmmm - DEBUG- 获取cookie={"SID": "jleme2lq0nfcoosdd6bo1bnk6p"}
+2018-06-15 12:49:42,743 - mmmm - DEBUG- 2018-06-15  12:49:42带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-15 12:49:43,581 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 12:49:43,581 - mmmm - DEBUG- {'SID': 'jleme2lq0nfcoosdd6bo1bnk6p'}
+2018-06-15 12:49:43,581 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-15 12:51:16,550 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 12:51:16,551 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 12:51:16,870 - mmmm - DEBUG- {'SID': 'n974c0apjiea9f1t35acduss32'}
+2018-06-15 12:51:16,871 - mmmm - DEBUG- 获取cookie={"SID": "n974c0apjiea9f1t35acduss32"}
+2018-06-15 12:51:16,871 - mmmm - DEBUG- 2018-06-15  12:51:16带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-15 12:51:17,940 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 12:51:17,941 - mmmm - DEBUG- {'SID': 'n974c0apjiea9f1t35acduss32'}
+2018-06-15 12:51:17,941 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-15 12:52:13,015 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 12:52:13,016 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 12:52:13,287 - mmmm - DEBUG- {'SID': '00jrlp4rvvn0c3lpi4e6gt77qq'}
+2018-06-15 12:52:13,290 - mmmm - DEBUG- 获取cookie={"SID": "00jrlp4rvvn0c3lpi4e6gt77qq"}
+2018-06-15 12:52:13,290 - mmmm - DEBUG- 2018-06-15  12:52:13带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-15 12:52:22,550 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Fri, 15 Jun 2018 04:52:28 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache'}
+2018-06-15 12:52:22,553 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 12:52:22,553 - mmmm - DEBUG- {'SID': '00jrlp4rvvn0c3lpi4e6gt77qq'}
+2018-06-15 12:52:22,553 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-15 12:53:36,564 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 12:53:36,564 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 12:53:36,914 - mmmm - DEBUG- {'SID': '24ef90tulninf5hcukp0pni2qd'}
+2018-06-15 12:53:36,914 - mmmm - DEBUG- 获取cookie={"SID": "24ef90tulninf5hcukp0pni2qd"}
+2018-06-15 12:53:36,914 - mmmm - DEBUG- 2018-06-15  12:53:36带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-15 12:53:38,122 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Fri, 15 Jun 2018 04:53:43 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache'}
+2018-06-15 12:53:38,123 - mmmm - DEBUG- <class 'requests.structures.CaseInsensitiveDict'>
+2018-06-15 12:53:38,124 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 12:53:38,124 - mmmm - DEBUG- {'SID': '24ef90tulninf5hcukp0pni2qd'}
+2018-06-15 12:53:38,124 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-15 13:00:03,524 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 13:00:03,525 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 13:00:03,965 - mmmm - DEBUG- {'SID': '8nhucmn8pqufl6836vmemkr7qs'}
+2018-06-15 13:00:03,967 - mmmm - DEBUG- 获取cookie={"SID": "8nhucmn8pqufl6836vmemkr7qs"}
+2018-06-15 13:00:03,967 - mmmm - DEBUG- 2018-06-15  13:00:03带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-15 13:00:04,885 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Fri, 15 Jun 2018 05:00:10 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache'}
+2018-06-15 13:00:04,886 - mmmm - DEBUG- {'errcode': 0, 'errmsg': 'success', 'data': {'integral': 0, 'is_first': 0, 'insert_id': '557398'}}
+2018-06-15 13:00:04,887 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 13:00:04,887 - mmmm - DEBUG- {'SID': '8nhucmn8pqufl6836vmemkr7qs'}
+2018-06-15 13:00:04,887 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-15 13:08:49,932 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 13:08:49,933 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 13:08:50,273 - mmmm - DEBUG- {'SID': 'f0pol1q64a7i5nqpblt48vb08r'}
+2018-06-15 13:08:50,275 - mmmm - DEBUG- 获取cookie={"SID": "f0pol1q64a7i5nqpblt48vb08r"}
+2018-06-15 13:08:50,275 - mmmm - DEBUG- 2018-06-15  13:08:50带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-15 13:08:51,222 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Fri, 15 Jun 2018 05:08:56 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache'}
+2018-06-15 13:08:51,223 - mmmm - DEBUG- {'errcode': 0, 'errmsg': 'success', 'data': {'integral': 0, 'is_first': 0, 'insert_id': '557399'}}
+2018-06-15 13:08:51,223 - mmmm - DEBUG- 获取header={"Server": "nginx", "Date": "Fri, 15 Jun 2018 05:08:56 GMT", "Content-Type": "application/json; charset=utf-8", "Transfer-Encoding": "chunked", "Connection": "keep-alive", "X-Powered-By": "PHP/7.2.1", "Expires": "Thu, 19 Nov 1981 08:52:00 GMT", "Cache-Control": "no-store, no-cache, must-revalidate", "Pragma": "no-cache"}
+2018-06-15 13:08:51,223 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 13:08:51,223 - mmmm - DEBUG- {'SID': 'f0pol1q64a7i5nqpblt48vb08r'}
+2018-06-15 13:08:51,224 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_
+2018-06-15 13:08:51,461 - mmmm - DEBUG- 获取header={"Server": "nginx", "Date": "Fri, 15 Jun 2018 05:08:57 GMT", "Content-Type": "text/html; charset=utf-8", "Transfer-Encoding": "chunked", "Connection": "keep-alive", "X-Powered-By": "PHP/7.2.1", "Expires": "Thu, 19 Nov 1981 08:52:00 GMT", "Cache-Control": "no-store, no-cache, must-revalidate", "Pragma": "no-cache"}
+2018-06-15 13:09:38,176 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-15 13:09:38,177 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-15 13:09:38,533 - mmmm - DEBUG- {'SID': '5niioc6999l195ennv0iutl10q'}
+2018-06-15 13:09:38,534 - mmmm - DEBUG- 获取cookie={"SID": "5niioc6999l195ennv0iutl10q"}
+2018-06-15 13:09:38,534 - mmmm - DEBUG- 2018-06-15  13:09:38带图片的帖子帖子展示自己一个人在家好无聊        < img        src = "/Public/upfile/201806/5b209359d6dbe.png"        width = "240"        height = "321" / >
+2018-06-15 13:09:39,554 - mmmm - DEBUG- {'Server': 'nginx', 'Date': 'Fri, 15 Jun 2018 05:09:45 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'X-Powered-By': 'PHP/7.2.1', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache'}
+2018-06-15 13:09:39,554 - mmmm - DEBUG- {'errcode': 0, 'errmsg': 'success', 'data': {'integral': 0, 'is_first': 0, 'insert_id': '557400'}}
+2018-06-15 13:09:39,554 - mmmm - DEBUG- 获取header={"Server": "nginx", "Date": "Fri, 15 Jun 2018 05:09:45 GMT", "Content-Type": "application/json; charset=utf-8", "Transfer-Encoding": "chunked", "Connection": "keep-alive", "X-Powered-By": "PHP/7.2.1", "Expires": "Thu, 19 Nov 1981 08:52:00 GMT", "Cache-Control": "no-store, no-cache, must-revalidate", "Pragma": "no-cache"}
+2018-06-15 13:09:39,554 - mmmm - DEBUG- 获取status_code=200
+2018-06-15 13:09:39,554 - mmmm - DEBUG- test_TestTieZiShow获取cookie
+2018-06-15 13:09:39,555 - mmmm - DEBUG- {'SID': '5niioc6999l195ennv0iutl10q'}
+2018-06-15 13:09:39,555 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/forum/f_557400
+2018-06-15 13:09:39,784 - mmmm - DEBUG- 获取header={"Server": "nginx", "Date": "Fri, 15 Jun 2018 05:09:45 GMT", "Content-Type": "application/json; charset=utf-8", "Transfer-Encoding": "chunked", "Connection": "keep-alive", "X-Powered-By": "PHP/7.2.1", "Expires": "Thu, 19 Nov 1981 08:52:00 GMT", "Cache-Control": "no-store, no-cache, must-revalidate", "Pragma": "no-cache"}
+2018-06-15 13:09:39,784 - mmmm - DEBUG- 获取status_code=200
+2018-06-17 16:06:55,874 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-17 16:06:55,875 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-17 16:06:56,400 - mmmm - DEBUG- {'SID': 'bfmdl6sc3c3kclm49gp5ilk09q'}
+2018-06-17 16:06:56,400 - mmmm - DEBUG- TestDemo 开始
+2018-06-17 16:06:56,400 - mmmm - DEBUG- TestDemo 开始
+2018-06-17 16:07:13,786 - mmmm - DEBUG- TestDemo 开始
+2018-06-17 16:07:13,787 - mmmm - DEBUG- TestDemo 开始
+2018-06-17 16:07:48,147 - mmmm - DEBUG- TestDemo 开始
+2018-06-17 16:07:48,148 - mmmm - DEBUG- TestDemo 开始
+2018-06-17 16:08:13,326 - mmmm - DEBUG- TestDemo 开始
+2018-06-17 16:08:13,327 - mmmm - DEBUG- TestDemo 开始
+2018-06-17 16:08:40,676 - mmmm - DEBUG- setUp 开始
+2018-06-17 16:08:40,676 - mmmm - DEBUG- {'SID': 2}
+2018-06-17 16:08:40,676 - mmmm - DEBUG- 获取cookie={"SID": 2}
+2018-06-17 16:08:40,677 - mmmm - DEBUG- test_TestDemoFunc11111111
+2018-06-17 16:08:40,677 - mmmm - DEBUG- tearDown 开始
+2018-06-17 16:08:40,677 - mmmm - DEBUG- setUp 开始
+2018-06-17 16:08:40,677 - mmmm - DEBUG- test_TestDemoFunc22222222
+2018-06-17 16:08:40,677 - mmmm - DEBUG- tearDown 开始
+2018-06-17 16:20:20,880 - mmmm - DEBUG- TestDemo 开始
+2018-06-17 16:20:20,881 - mmmm - DEBUG- TestDemo 开始
+2018-06-17 16:20:58,617 - mmmm - DEBUG- TestDemo 开始
+2018-06-17 16:20:58,617 - mmmm - DEBUG- TestDemo 开始
+2018-06-17 16:21:51,782 - mmmm - DEBUG- TestDemo 开始
+2018-06-17 16:21:51,782 - mmmm - DEBUG- TestDemo 开始
+2018-06-17 16:24:31,229 - mmmm - DEBUG- setUp 开始
+2018-06-17 16:24:31,230 - mmmm - DEBUG- test_TestDemoFunc22222222
+2018-06-17 16:24:31,230 - mmmm - DEBUG- tearDown 开始
+2018-06-17 16:25:02,449 - mmmm - DEBUG- setUp 开始
+2018-06-17 16:25:02,450 - mmmm - DEBUG- {'SID': 'dadsadas'}
+2018-06-17 16:25:02,450 - mmmm - DEBUG- 获取cookie={"SID": "dadsadas"}
+2018-06-17 16:25:02,450 - mmmm - DEBUG- test_TestDemoFunc11111111
+2018-06-17 16:25:02,450 - mmmm - DEBUG- test_TestDemoFunc22222222
+2018-06-17 16:25:02,450 - mmmm - DEBUG- tearDown 开始
+2018-06-21 11:34:54,111 - mmmm - DEBUG- 获取cookie={}
+2018-06-21 11:34:54,112 - mmmm - DEBUG- 2018-06-21  11:34:54带图片的帖子帖子展示自己一个人在家好无聊
+2018-06-21 11:34:55,384 - mmmm - DEBUG- 获取header={"Server": "nginx", "Date": "Thu, 21 Jun 2018 03:34:55 GMT", "Content-Type": "text/html; charset=UTF-8", "Transfer-Encoding": "chunked", "Connection": "keep-alive", "Vary": "Accept-Encoding, Accept-Encoding", "X-Powered-By": "PHP/7.2.1", "Set-Cookie": "SID=c9gc7l8sr5sg4utpe5t27rtvrg; expires=Thu, 28-Jun-2018 03:34:55 GMT; Max-Age=604800; path=/; domain=.duozhuan.cn", "Expires": "Thu, 19 Nov 1981 08:52:00 GMT", "Cache-Control": "no-store, no-cache, must-revalidate", "Pragma": "no-cache", "Content-Encoding": "gzip"}
+2018-06-21 11:34:55,384 - mmmm - DEBUG- 获取status_code=200
+2018-06-21 11:34:55,389 - mmmm - DEBUG- test_TestTieZiShow获取cookie={}
+2018-06-21 11:34:55,389 - mmmm - DEBUG- 请求url=https://ptopapi.duozhuan.cn/forum/f_
+2018-06-21 11:34:55,793 - mmmm - DEBUG- 获取header={"Server": "nginx", "Date": "Thu, 21 Jun 2018 03:34:55 GMT", "Content-Type": "text/html; charset=utf-8", "Transfer-Encoding": "chunked", "Connection": "keep-alive", "X-Powered-By": "PHP/7.2.1", "Set-Cookie": "SID=eukfqlsh8jii44ntbia6lgrijh; expires=Thu, 28-Jun-2018 03:34:55 GMT; Max-Age=604800; path=/; domain=.duozhuan.cn", "Expires": "Thu, 19 Nov 1981 08:52:00 GMT", "Cache-Control": "no-store, no-cache, must-revalidate", "Pragma": "no-cache"}
+2018-06-21 11:34:55,793 - mmmm - DEBUG- 获取status_code=500
+2018-06-21 11:35:24,914 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-21 11:35:24,914 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-21 11:35:25,362 - mmmm - DEBUG- {'SID': 'lgfeeegqvam93141vbm2j9378k'}
+2018-06-21 11:35:25,363 - mmmm - DEBUG- 获取cookie={"SID": "lgfeeegqvam93141vbm2j9378k"}
+2018-06-21 11:35:25,363 - mmmm - DEBUG- 2018-06-21  11:35:25带图片的帖子帖子展示自己一个人在家好无聊
+2018-06-21 11:35:26,282 - mmmm - DEBUG- 获取header={"Server": "nginx", "Date": "Thu, 21 Jun 2018 03:35:26 GMT", "Content-Type": "application/json; charset=utf-8", "Transfer-Encoding": "chunked", "Connection": "keep-alive", "X-Powered-By": "PHP/7.2.1", "Expires": "Thu, 19 Nov 1981 08:52:00 GMT", "Cache-Control": "no-store, no-cache, must-revalidate", "Pragma": "no-cache"}
+2018-06-21 11:35:26,282 - mmmm - DEBUG- 获取status_code=200
+2018-06-21 11:35:26,282 - mmmm - DEBUG- test_TestTieZiShow获取cookie={"SID": "lgfeeegqvam93141vbm2j9378k"}
+2018-06-21 11:35:26,282 - mmmm - DEBUG- 请求url=https://ptopapi.duozhuan.cn/forum/f_558013
+2018-06-21 11:35:26,545 - mmmm - DEBUG- 获取header={"Server": "nginx", "Date": "Thu, 21 Jun 2018 03:35:26 GMT", "Content-Type": "application/json; charset=utf-8", "Transfer-Encoding": "chunked", "Connection": "keep-alive", "X-Powered-By": "PHP/7.2.1", "Expires": "Thu, 19 Nov 1981 08:52:00 GMT", "Cache-Control": "no-store, no-cache, must-revalidate", "Pragma": "no-cache"}
+2018-06-21 11:35:26,545 - mmmm - DEBUG- 获取status_code=200
+2018-06-28 17:40:45,708 - mmmm - DEBUG- https://ptopapi.duozhuan.cn/loginNew/password
+2018-06-28 17:40:45,709 - mmmm - DEBUG- {'username': '18500081509', 'login_from': 'app_i_login', 'password': 'qa123321'}
+2018-06-28 17:40:47,089 - mmmm - DEBUG- {'SID': '6kdri8ggcf3pdn2oe43ndsrsfk'}
+2018-06-28 17:40:47,092 - mmmm - DEBUG- 获取cookie={"SID": "6kdri8ggcf3pdn2oe43ndsrsfk"}
+2018-06-28 17:40:47,092 - mmmm - DEBUG- 2018-06-28  17:40:47带图片的帖子帖子展示自己一个人在家好无聊
+2018-06-28 17:40:48,009 - mmmm - DEBUG- 获取header={"Server": "nginx", "Date": "Thu, 28 Jun 2018 09:40:47 GMT", "Content-Type": "application/json; charset=utf-8", "X-Powered-By": "PHP/7.2.1", "Expires": "Thu, 19 Nov 1981 08:52:00 GMT", "Cache-Control": "no-store, no-cache, must-revalidate", "Pragma": "no-cache", "Transfer-Encoding": "chunked", "Connection": "Keep-alive"}
+2018-06-28 17:40:48,009 - mmmm - DEBUG- 获取status_code=200
+2018-06-28 17:40:48,010 - mmmm - DEBUG- test_TestTieZiShow获取cookie={"SID": "6kdri8ggcf3pdn2oe43ndsrsfk"}
+2018-06-28 17:40:48,010 - mmmm - DEBUG- 请求url=https://ptopapi.duozhuan.cn/forum/f_559260
+2018-06-28 17:40:48,331 - mmmm - DEBUG- 获取header={"Server": "nginx", "Date": "Thu, 28 Jun 2018 09:40:48 GMT", "Content-Type": "application/json; charset=utf-8", "X-Powered-By": "PHP/7.2.1", "Expires": "Thu, 19 Nov 1981 08:52:00 GMT", "Cache-Control": "no-store, no-cache, must-revalidate", "Pragma": "no-cache", "Transfer-Encoding": "chunked", "Connection": "Keep-alive"}
+2018-06-28 17:40:48,331 - mmmm - DEBUG- 获取status_code=200
