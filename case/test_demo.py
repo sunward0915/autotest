@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 # .py
-# -*- encoding:utf-8 -*-
+# -*- coding:utf-8 -*-
 # author: gaohuayun
 # date: 2018/5/19 下午9:58
 import  unittest

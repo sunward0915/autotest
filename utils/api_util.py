@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 # .py
-# -*- encoding:utf-8 -*-
+# -*- coding:utf-8 -*-
 # author: zhangjinming
 # date: 2018/5/12 下午5:41
 """

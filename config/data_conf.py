@@ -13,7 +13,8 @@ APP_USER_PWD = 'qa123321'
 
 #PROJECT_DIR = 'D:\\workspacepy\\api-demo'
 
-PROJECT_DIR ="/Users/zhangjinming/PycharmProjects/Pro_py3/Demo"
+#PROJECT_DIR ="/Users/zhangjinming/PycharmProjects/Pro_py3/Demo"
+PROJECT_DIR ="."
 
 #LOGLEVEL = 2
 logpath = "../log"
